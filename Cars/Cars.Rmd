@@ -9,3 +9,6 @@ output: html_document
 Car Crashes Around the World
 ```
 
+# Try and display the data on the HTML page.
+# We want the raw data here for people to see.
+# Then we can add our visualizations in other places
